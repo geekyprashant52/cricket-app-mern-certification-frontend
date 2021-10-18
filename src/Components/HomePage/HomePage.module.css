@@ -54,6 +54,10 @@
   text-decoration: none;
 }
 
+.playerCards:hover {
+  transform: translateY(-5px);
+}
+
 .playerLeftDiv {
   width: 37%;
   display: flex;

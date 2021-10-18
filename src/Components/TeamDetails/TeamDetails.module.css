@@ -32,10 +32,13 @@
   justify-content: center;
   align-items: center;
   padding: 2%;
-
   margin-bottom: 20px;
   transition: all 0.5s;
   background-color: white;
+}
+
+.playerCardsIN:hover {
+  transform: translateY(-5px);
 }
 
 .playerCardsIN {
@@ -116,6 +119,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 15px;
 }
 
 .teamLeftDiv img {
